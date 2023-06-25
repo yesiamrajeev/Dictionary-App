@@ -9,7 +9,6 @@ User-friendly interface with intuitive controls.
 # Technologies Used
 MIT App Inventor
 # Installation
-Clone the repository: git clone https://github.com/your-username/dictionary-app.git
 Import the project into MIT App Inventor.
 Build and install the application on an Android device or emulator.
 # Usage
