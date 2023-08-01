@@ -25,6 +25,8 @@ To edit or delete an existing word entry, click on the word in the list and choo
 Enjoy using the dictionary app to store and retrieve words and meanings!
 Contributions
 Contributions are welcome! If you would like to contribute to this project, please follow the standard Git workflow:
+# Logic (Code)
+![logic1](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/ec510650-cc73-4f44-87e1-e8f4b919ccf4)
 
 # Fork the repository.
 Create a new branch for your feature or bug fix.
