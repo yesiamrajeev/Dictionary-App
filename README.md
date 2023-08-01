@@ -1,8 +1,8 @@
 # Dictionary-App
 A dictionary application built with MIT App Inventor that allows users to store words and their meanings manually. Users can add new words and meanings, and later retrieve them whenever required.
 
-![screenshot2](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/f98c5167-5df1-44f2-ad31-c89439a7e484)
-![screenshot3](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/5eaab25d-6ec3-4784-ad1e-caa5bfa5eec0)
+![screenshot2](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/f98c5167-5df1-44f2-ad31-c89439a7e484)![screenshot3](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/5eaab25d-6ec3-4784-ad1e-caa5bfa5eec0)
+
 
 
 
@@ -12,7 +12,9 @@ View and search for stored words and their meanings.
 Edit or delete existing word entries.
 User-friendly interface with intuitive controls.
 # Technologies Used
-MIT App Inventor
+MIT App Inventor <br>
+TinyDB1<br>
+Notifier1
 # Installation
 Import the project into MIT App Inventor.
 Build and install the application on an Android device or emulator.
