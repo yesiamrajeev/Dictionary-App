@@ -27,6 +27,9 @@ Contributions
 Contributions are welcome! If you would like to contribute to this project, please follow the standard Git workflow:
 # Logic (Code)
 ![logic1](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/ec510650-cc73-4f44-87e1-e8f4b919ccf4)
+![Screenshot1](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/caa66439-462c-4844-9c09-0dfc18bf2c1f)
+
+
 
 # Fork the repository.
 Create a new branch for your feature or bug fix.
