@@ -25,7 +25,6 @@ To add a new word and its meaning, click on the "Add Word" button and enter the 
 To search for a specific word, use the search bar at the top and enter the word you are looking for.
 To edit or delete an existing word entry, click on the word in the list and choose the desired action.
 Enjoy using the dictionary app to store and retrieve words and meanings!
-Contributions
 Contributions are welcome! If you would like to contribute to this project, please follow the standard Git workflow:
 # Logic (Code)
 ![logic1](https://github.com/yesiamrajeev/Dictionary-App/assets/125568812/ec510650-cc73-4f44-87e1-e8f4b919ccf4)
