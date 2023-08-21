@@ -7,7 +7,7 @@ A dictionary application built with MIT App Inventor that allows users to store 
 
 
 # Features
-Add new words and their meanings the dictionary.
+Add new words and their meanings to the dictionary.
 View and search for stored words and their meanings.
 Edit or delete existing word entries.
 User-friendly interface with intuitive controls.
